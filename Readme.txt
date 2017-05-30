@@ -1,5 +1,5 @@
 Hello all!
-This repo has all the assignments lernt as a part of BPHC Web Developers Summer training 2017!
+This repo has all the assignments learnt as a part of BPHC Web Developer Summer training 2017 undertaken by CRuX!
 Do read this file for updates and information on assignments from time to time! :) 
 
 Have a nice day!
