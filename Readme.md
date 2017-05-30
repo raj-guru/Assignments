@@ -1,10 +1,9 @@
-###WebDev Assignments
-
+### WebDev Assignments  
 Hello all!  
-This repo has all the assignments learnt as a part of *BPHC Web Developer Summer* training 2017 undertaken by CRuX!  
+This repo has all the assignments learnt as a part of **BPHC Web Developer Summer** training 2017 undertaken by CRuX!  
 Do read this file for updates and information on assignments from time to time! :)   
 
- Have a nice day!
+ Have a nice day!  
 
 * Assignment 1: Mini assignment on simple web page using HTML  
 * Assignment 2: A webpage prompting BPHC Students to give in their info. Made using HTML and CSS
